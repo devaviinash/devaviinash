@@ -10,7 +10,7 @@ I am a passionate **Webber** with a focus on web development. I love exploring a
 
 ## Skills and Technologies
 
-javascript
+```javascript
 const avinash = {
   pronouns: "He" | "Him",
   code: ["JavaScript", "HTML", "CSS"],
@@ -33,7 +33,7 @@ const avinash = {
     "Serverless Architecture",
   ],
 };
-
+```
 
 ## GitHub Insights
 
