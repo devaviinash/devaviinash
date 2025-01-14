@@ -64,7 +64,7 @@ Description: A URL shortener web application created using JavaScript and CSS.
 
 ## Get in Touch
 
-💌 You can reach me at avinash123@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/avinash-chavan). I'm open to exciting collaboration opportunities and always eager to learn new things.
+💌 You can reach me at avinashchavan127@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in). I'm open to exciting collaboration opportunities and always eager to learn new things.
 
 ## Conclusion
 
